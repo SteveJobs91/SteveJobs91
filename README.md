@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SteveJobs91
-- 👀 I’m interested in game development, web development, and operating system development.
-- 🌱 I’m currently learning web development and game development.
-- 💞️ I’m looking to collaborate on web development.
+- 👀 I’m interested in game development, and .NET develoment.
+- 🌱 I’m currently learning .NET C# and game development.
+- 💞️ I’m looking to collaborate on .NET development.
 - 📫 How to reach me
 
 <!---
