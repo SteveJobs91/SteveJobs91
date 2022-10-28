@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SteveJobs91
-- 👀 I’m interested in Python game development, Unreal Engine game development & web development.
-- 🌱 I’m currently learning Python game development & web development.
+- 👀 I’m interested in data science and machine learning with Python and web development.
+- 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on web development.
 - 📫 How to reach me
 
